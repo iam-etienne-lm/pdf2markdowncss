@@ -70,7 +70,7 @@
 
 ## INTERESTS  
 🏃 Triathlon Marathon | ✈️ Private Pilot (PPL) | 🏂 Certified Snowboard Instructor  
-🌱 Hydroponics | ₿ Crypto Algorithms | c Language Learning (2024: RU/UK)  
+🌱 Hydroponics | ₿ Crypto Algorithms  
 
 ## LANGUAGES 
 🗣️ Fluent in **French** | English | Spanish - Beginner in Chinese | Ukrainian | Italian 
