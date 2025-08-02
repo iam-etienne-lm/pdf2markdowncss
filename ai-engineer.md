@@ -60,9 +60,9 @@
 ---
 
 ## EDUCATION  
-**MSc** - Architect & Application Development (AI Minor) | *Epitech Toulouse, 2021-2022*  
+**MSc** - Architect & Application Development (AI Minor) | *Epitech Toulouse, 2022*  
 - Thesis: Blockchain trading bot (Binance API) + AI projects (NLP/CV)  
-- *WES-validated Canadian equivalency*  
+- *WES-validated Canadian equivalency > Master*  
 
 **BSc** - Mechanical Engineering | *Université Toulouse 3, 2016*  
 
