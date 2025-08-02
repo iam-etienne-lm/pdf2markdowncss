@@ -32,7 +32,7 @@
 - Refactored legacy tools (JS/PHP→Rust), improving load times by 2s of Credit Analyst Dashboard 
 
 ### **AI ENGINEER** (freelance) 
-*SOUNDX AI, Paris, France | May 2022 - Dec 2022*
+*SOUNDX AI, Paris, France | May 2022 - Dec 2022*  
 *Startup focused on musical solutions for the hearing impaired*
 - Transform audio into images using a CNN neural network and Librosa to build a sound equalizer
 
@@ -57,7 +57,6 @@
 *NEW AIRCRAFT SOLUTIONS, Toulouse, France | Sep 2015 - Nov 2016*
 - Design and integration of aerospace parts STC Faa/Easa CS23 part 21
 
-
 ---
 
 ## EDUCATION  
@@ -71,8 +70,7 @@
 
 ## INTERESTS  
 🏃 Triathlon Marathon | ✈️ Private Pilot (PPL) | 🏂 Certified Snowboard Instructor  
-🌱 Hydroponics | ₿ Crypto Algorithms | 🗣️ Language Learning (2024: RU/UK)  
+🌱 Hydroponics | ₿ Crypto Algorithms | c Language Learning (2024: RU/UK)  
 
-## LANGUAGES
-- Fluent in **French** | English | Spanish
-- Beginner in Chinese | Ukrainian | Italian 
+## LANGUAGES 
+🗣️ Fluent in **French** | English | Spanish - Beginner in Chinese | Ukrainian | Italian 
